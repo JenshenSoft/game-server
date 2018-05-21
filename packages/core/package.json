@@ -1,0 +1,7 @@
+{
+  "name": "game-server-core",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Core login of game server",
+  "main": "src/index.js"
+}
